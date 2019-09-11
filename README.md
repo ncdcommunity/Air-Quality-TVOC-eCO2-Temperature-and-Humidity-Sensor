@@ -19,4 +19,4 @@ Place the sensor in a cleanest possible area for first 60 seconds
 3. after changing batteries 
 4. power on off
 
-during the first 60 seconds sensor will shelf calibrate and will use these environment condition as base condition. 
+during the first 60 seconds sensor will self calibrate and will use these environment condition as base condition. 
