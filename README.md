@@ -11,7 +11,7 @@ https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-commun
 Arduino IDE
 
 Minimum sampling interval is 1 min
-Sensor calibration / intial start up routine
+Sensor calibration / initial start up routine
 
 Place the sensor in a cleanest possible area for first 60 seconds 
 1. After the first boot
